@@ -1,6 +1,6 @@
 var fs = require('fs')
 
-const DIR_NAME = '.'
+const DIR_NAME = '/path/to/file'
 const FIND_CHAR = '_'
 const REPLACE_CHAR = '&'
 
