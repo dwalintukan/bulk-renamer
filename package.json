@@ -1,0 +1,11 @@
+{
+  "name": "bulk-renamer",
+  "version": "1.0.0",
+  "description": "Node.JS script to bulk rename files in a directory and replace all instances of a character with another.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Deric Walintukan <deric.walintukan@gmail.com",
+  "license": "ISC"
+}
