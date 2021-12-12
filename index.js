@@ -1,8 +1,10 @@
 var fs = require('fs')
 
+/***** CONFIG *****/
 const DIR_NAME = '/path/to/file'
 const FIND_CHAR = '_'
 const REPLACE_CHAR = '&'
+/***** END CONFIG *****/
 
 const renameFile = (filename) => {
   if (filename.includes('_')) {
